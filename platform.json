@@ -81,9 +81,8 @@
     "framework-espidf": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~3.50000.0",
-      "optionalVersions": ["~3.40403.0"]
+      "owner": "arjenhiemstra",
+      "version": "https://github.com/arjenhiemstra/esp-idf.git#51ec61e13d4827aa40bb736357e02a8a060d124b"
     },
     "tool-esptoolpy": {
       "type": "uploader",
