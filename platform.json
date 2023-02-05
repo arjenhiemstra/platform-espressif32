@@ -82,7 +82,7 @@
       "type": "framework",
       "optional": true,
       "owner": "arjenhiemstra",
-      "version": "https://github.com/arjenhiemstra/esp-idf.git#51ec61e13d4827aa40bb736357e02a8a060d124b"
+      "version": "https://github.com/arjenhiemstra/esp-idf/archive/refs/heads/Tasmota/v4.4.zip"
     },
     "tool-esptoolpy": {
       "type": "uploader",
